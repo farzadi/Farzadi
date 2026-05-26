@@ -9,7 +9,7 @@
  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝
 ```
 
-### Senior .NET Developer · Open Source Dreamer
+### Senior Backend Developer · Open Source Dreamer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad--Mohebi-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/farzad-mohebbi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-farzadi.github.io-FF5733?style=flat-square&logo=github)](https://farzadi.github.io)
