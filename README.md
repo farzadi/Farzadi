@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Software Engineer** with 9+ years of professional experience who started as a full-stack web developer, went deep into game development, and transitioned into the world of **DevOps and microservices architecture**. I'm particularly proud of my contributions to the **Iranian open source community** 🌍✨
+I'm a **Senior Software Engineer** with 9+ years of professional experience who started as a full-stack web developer, went deep into game development, and transitioned into the world of **microservices architecture** 🌍✨
 
 ---
 
