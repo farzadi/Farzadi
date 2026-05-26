@@ -11,7 +11,7 @@
 
 ### Senior .NET Developer · Open Source Dreamer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad--Mohebi-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/farzad-mohebi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzad--Mohebi-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/farzad-mohebbi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-farzadi.github.io-FF5733?style=flat-square&logo=github)](https://farzadi.github.io)
 [![Hicore](https://img.shields.io/badge/Project-Hicore_Game_Server-6C3483?style=flat-square&logo=unity)](https://hicore.netlify.app)
 [![Email](https://img.shields.io/badge/Email-farzadmohebidev%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:farzadmohebidev@gmail.com)
